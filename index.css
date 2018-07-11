@@ -6,26 +6,26 @@ body{
     background-attachment: fixed;
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 
 #principal{
     margin: 90px 15px 10px 15px;
     text-align: center;
-    height: 800px;
+    height: auto;
     background-color: rgba(0, 247, 255, 0.253);
 }
 
 .back{
-    display: none;
-    height: 600px;
-    width: 850px;
     position: center center;
+    display: none;
+    width: 100%;
+    height: auto;
 }
 
 .front{
-    height: 600px;
-    width: 850px;
+    width: 100%;
+    height: auto;
     position: center center;
 }
 
