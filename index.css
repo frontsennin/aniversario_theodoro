@@ -50,13 +50,13 @@ body{
 
 .waze{
     background-color: rgba(250, 235, 215, 0.945);
-    height: 200px;
+    height: auto;
     border: 1px solid black;
 }
 
 .calendar{
     background-color: rgba(250, 235, 215, 0.945);
-    height: 200px;;
+    height: auto;
     border: 1px solid black;
     
 }
