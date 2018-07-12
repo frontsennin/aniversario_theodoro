@@ -48,13 +48,32 @@ body{
     margin-top: 20px;
 }
 
-.hdois{
+.waze{
     background-color: rgba(250, 235, 215, 0.945);
+    height: 200px;
     border: 1px solid black;
 }
 
-h2{
+.calendar{
+    background-color: rgba(250, 235, 215, 0.945);
+    height: 200px;;
+    border: 1px solid black;
+    
+}
+
+h3{
     text-decoration: none;
     font-family: fantasy;
     color: blue;
+    padding-top: 15px;
+}
+
+.fa-cale{
+    height: 75px;
+    width: 75px;
+}
+
+.fa-waze{
+    height: 75px;
+    width: 75px;
 }
